@@ -3,6 +3,7 @@ body { background-color: #161a1d;
   color:#f5f3f4;
    text-align: center;
    text-shadow: #d3d3d3;
+   padding: 5%;
   }
  
  .picture {
@@ -30,8 +31,7 @@ body { background-color: #161a1d;
     float:left ;
     padding: 15px;
   }
-
-
-  div {
-    border: 5px red solid;
-  }
+   ul li:nth-child(odd) {
+    border: 1px #49111c solid;
+    position:absolute
+   }
