@@ -3,14 +3,10 @@ body { background-color: #161a1d;
   color:#f5f3f4;
    text-align: center;
    text-shadow: #d3d3d3;
- 
- 
   }
  
  .picture {
    border-radius:300em;
- 
- 
  }
   .nome {
       font-family: 'Oswald', Arial;
@@ -19,4 +15,23 @@ body { background-color: #161a1d;
     .destaque {
      font-weight: bold;
     }
-   
+
+  .first { height: 450px;
+    padding:15px;
+  } 
+
+  #imagem {
+    float: left ;
+    padding: 10px;
+    background-color: #49111c;
+  }
+  
+  #apresentacao {
+    float:left ;
+    padding: 15px;
+  }
+
+
+  div {
+    border: 5px red solid;
+  }
