@@ -1,0 +1,22 @@
+body { background-color: #161a1d;
+    line-height: 30px;
+  color:#f5f3f4;
+   text-align: center;
+   text-shadow: #d3d3d3;
+ 
+ 
+  }
+ 
+ .picture {
+   border-radius:300em;
+ 
+ 
+ }
+  .nome {
+      font-family: 'Oswald', Arial;
+    }
+   
+    .destaque {
+     font-weight: bold;
+    }
+   
