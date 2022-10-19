@@ -1,0 +1,37 @@
+body { background-color: #161a1d;
+    line-height: 30px;
+  color:#f5f3f4;
+   text-align: center;
+   text-shadow: #d3d3d3;
+   padding: 5%;
+  }
+ 
+ .picture {
+   border-radius:300em;
+ }
+  .nome {
+      font-family: 'Oswald', Arial;
+    }
+   
+    .destaque {
+     font-weight: bold;
+    }
+
+  .first { height: 450px;
+    padding:15px;
+  } 
+
+  #imagem {
+    float: left ;
+    padding: 10px;
+    background-color: #49111c;
+  }
+  
+  #apresentacao {
+    float:left ;
+    padding: 15px;
+  }
+   ul li:nth-child(odd) {
+    border: 1px #49111c solid;
+    position:absolute
+   }
